@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "environmental:stripped_cherry_wood",
+    "environmental:stripped_willow_wood",
+    "environmental:stripped_wisteria_wood"
+  ]
+}

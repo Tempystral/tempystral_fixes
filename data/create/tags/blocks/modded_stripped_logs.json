@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#forge:stripped_logs",
+      "required": false
+    }
+  ]
+}
