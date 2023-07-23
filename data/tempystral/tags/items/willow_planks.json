@@ -1,0 +1,161 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "environmental:willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/willow_planks_mosaic",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/willow_planks_panel",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/willow_planks_shavings",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/basket_woven_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/boxed_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/brick_bond_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/bricky_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/cornered_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/crated_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/cross_laced_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/crossed_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/detailed_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/diagonal_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/diamond_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/double_herringbone_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/enclosed_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/fine_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/fine_vertical_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/framed_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/herringbone_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/hewn_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/laced_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/nailed_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/natural_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/pegged_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/polished_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/railed_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/shifted_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/slanted_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/smooth_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/stacked_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/thin_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/tiled_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/versailles_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/vertical_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/vertically_railed_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/whirlwind_willow_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/wickered_willow_planks",
+      "required": false
+    }
+  ]
+}

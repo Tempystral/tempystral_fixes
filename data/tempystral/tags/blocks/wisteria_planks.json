@@ -1,0 +1,161 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "environmental:wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/wisteria_planks_mosaic",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/wisteria_planks_panel",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/wisteria_planks_shavings",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/basket_woven_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/boxed_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/brick_bond_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/bricky_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/cornered_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/crated_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/cross_laced_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/crossed_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/detailed_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/diagonal_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/diamond_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/double_herringbone_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/enclosed_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/fine_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/fine_vertical_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/framed_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/herringbone_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/hewn_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/laced_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/nailed_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/natural_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/pegged_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/polished_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/railed_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/shifted_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/slanted_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/smooth_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/stacked_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/thin_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/tiled_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/versailles_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/vertical_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/vertically_railed_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/whirlwind_wisteria_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/wickered_wisteria_planks",
+      "required": false
+    }
+  ]
+}

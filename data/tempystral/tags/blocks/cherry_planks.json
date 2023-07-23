@@ -1,44 +1,161 @@
 {
   "replace": false,
   "values": [
-    "environmental:cherry_planks",
-    "everycomp:ch/environmental/cherry_planks_mosaic",
-    "everycomp:ch/environmental/cherry_planks_panel",
-    "everycomp:ch/environmental/cherry_planks_shavings",
-    "everycomp:ch/environmental/basket_woven_cherry_planks",
-    "everycomp:ch/environmental/boxed_cherry_planks",
-    "everycomp:ch/environmental/brick_bond_cherry_planks",
-    "everycomp:ch/environmental/bricky_cherry_planks",
-    "everycomp:ch/environmental/cornered_cherry_planks",
-    "everycomp:ch/environmental/crated_cherry_planks",
-    "everycomp:ch/environmental/cross_laced_cherry_planks",
-    "everycomp:ch/environmental/crossed_cherry_planks",
-    "everycomp:ch/environmental/detailed_cherry_planks",
-    "everycomp:ch/environmental/diagonal_cherry_planks",
-    "everycomp:ch/environmental/diamond_cherry_planks",
-    "everycomp:ch/environmental/double_herringbone_cherry_planks",
-    "everycomp:ch/environmental/enclosed_cherry_planks",
-    "everycomp:ch/environmental/fine_cherry_planks",
-    "everycomp:ch/environmental/fine_vertical_cherry_planks",
-    "everycomp:ch/environmental/framed_cherry_planks",
-    "everycomp:ch/environmental/herringbone_cherry_planks",
-    "everycomp:ch/environmental/hewn_cherry_planks",
-    "everycomp:ch/environmental/laced_cherry_planks",
-    "everycomp:ch/environmental/nailed_cherry_planks",
-    "everycomp:ch/environmental/natural_cherry_planks",
-    "everycomp:ch/environmental/pegged_cherry_planks",
-    "everycomp:ch/environmental/polished_cherry_planks",
-    "everycomp:ch/environmental/railed_cherry_planks",
-    "everycomp:ch/environmental/shifted_cherry_planks",
-    "everycomp:ch/environmental/slanted_cherry_planks",
-    "everycomp:ch/environmental/smooth_cherry_planks",
-    "everycomp:ch/environmental/stacked_cherry_planks",
-    "everycomp:ch/environmental/thin_cherry_planks",
-    "everycomp:ch/environmental/tiled_cherry_planks",
-    "everycomp:ch/environmental/versailles_cherry_planks",
-    "everycomp:ch/environmental/vertical_cherry_planks",
-    "everycomp:ch/environmental/vertically_railed_cherry_planks",
-    "everycomp:ch/environmental/whirlwind_cherry_planks",
-    "everycomp:ch/environmental/wickered_cherry_planks"
+    {
+      "id": "environmental:cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/cherry_planks_mosaic",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/cherry_planks_panel",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/cherry_planks_shavings",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/basket_woven_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/boxed_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/brick_bond_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/bricky_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/cornered_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/crated_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/cross_laced_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/crossed_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/detailed_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/diagonal_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/diamond_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/double_herringbone_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/enclosed_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/fine_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/fine_vertical_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/framed_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/herringbone_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/hewn_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/laced_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/nailed_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/natural_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/pegged_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/polished_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/railed_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/shifted_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/slanted_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/smooth_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/stacked_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/thin_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/tiled_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/versailles_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/vertical_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/vertically_railed_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/whirlwind_cherry_planks",
+      "required": false
+    },
+    {
+      "id": "everycomp:ch/environmental/wickered_cherry_planks",
+      "required": false
+    }
   ]
 }
